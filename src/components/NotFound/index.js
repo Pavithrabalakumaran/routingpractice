@@ -8,6 +8,7 @@ const NotFound = () => (
       alt="not-found"
       className="not-found-img"
     />
+    <h1 className="home-heading">Not Found</h1>
   </div>
 )
 
