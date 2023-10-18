@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.about-image {
+  width: 200px;
+}
+
+.heading {
+  color: #551e53;
+  font-weight: bold;
+  align-items: center;
+  font-size: 30px;
+}
